@@ -1,0 +1,10 @@
+:root {
+    --primary-color: #FFFFFF;
+    --secondary-color: #000000;
+    --bg-header: #323335;
+    --bg-products: #E0E0E0;
+    --border-btn: #4D4D4D;
+    --header-titles: "Playfair Display", serif;
+    --about-txt: "Montserrat", serif;
+    --product-btn: #0D0D0D;
+}
